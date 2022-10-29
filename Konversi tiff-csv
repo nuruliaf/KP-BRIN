@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@nuruliaf 
-nuruliaf
-/
-KP-BRIN
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-KP-BRIN
-/
-Konversi TIFF-CSV
-/
-Name your file…
-in
-main
- 
 ## Ekstraksi TIFF ke CSV dan sebaliknya 
 
 from osgeo import gdal, osr
